@@ -1,4 +1,4 @@
-# Customer Sales & Revenue Analysis
+# Finance Customer Sales & Revenue Analysis
 
 ## Overview
 
